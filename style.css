@@ -42,6 +42,7 @@ a {
     list-style: none;
     letter-spacing: 5px;
     margin-left: 10px;
+    text-decoration: none;
 }
 
 
@@ -68,3 +69,5 @@ a {
 @keyframes infoBox {
 
 }
+
+/* for displpay of new divs do display none and then onClick, display block*/
