@@ -70,6 +70,31 @@ a {
   -webkit-transition: infoBox all 1s ease;
 }
 
+.projects {
+  display: flex;
+  margin-top: 10px;
+}
+
+
+.game {
+  display: flex;
+  flex-direction: column;
+  /*width: 200px;
+  height: 200px;*/
+}
+
+/*.magnesium {
+  background: url('Magnesium.png');
+  width: 300px;
+  height: 150px;
+}
+
+.chairshare {
+  background: url('ChairShare.png');
+  width: 300px;
+  height: 150px;
+}*/
+
 @keyframes infoBox {
 
 }
