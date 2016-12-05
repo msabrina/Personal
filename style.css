@@ -5,7 +5,8 @@
 
 body {
   /*background: url('pexels-photo.jpg');*/
-  background-color: #DCC7AA;
+  /*background-color: #DCC7AA;*/
+  background-color: #D5D5D5;
   background-size: cover;
   font-family: 'Josefin Sans', sans-serif;
   z-index: -2px;
@@ -17,7 +18,8 @@ h1 {
   font-size: 62px;
   border: 1px solid white;
   padding: 1%;
-  background-color: #CDCDCD;
+  /*background-color: #CDCDCD;*/
+  background-color: #EEB6B7;
 }
 
 h2 {
@@ -27,7 +29,9 @@ h2 {
   border: 1px solid white;
   margin-top: 30px;
   padding: 1%;
-  background-color: #CDCDCD;
+  /*background-color: #CDCDCD;*/
+  /*background-color: #99D3DF;*/
+  background-color: #EEB6B7;
 }
 
 a {
@@ -38,7 +42,7 @@ a {
     font-size: 28px;
     /*border: 1px solid white;*/
     margin-top: 30px;
-    padding: 1%;
+    /*padding: 1%;*/
     list-style: none;
     letter-spacing: 5px;
     margin-left: 10px;
